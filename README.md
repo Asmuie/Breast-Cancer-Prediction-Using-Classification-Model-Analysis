@@ -23,15 +23,19 @@
 
 Using the data provided, I predict if the patient had benign or malignant tumor using classification model below. Finally i compare the accuracy score method to find the best possible model for this project.
 
-* Multiple Linear Regression
+* Logistic Regression
 
-* Polynomial Regression
+* K Nearest Neighbors
 
-* Support Vector Regresion (SVR)
+* Support Vector Machine (SVM)
 
-* Decision Tree Regression
+* Kernel SVM
 
-* Random Forest Regression
+* Naive Bayes
+
+* Decision Tree Classification
+
+* Random Forest Classification
 
 By using accuracy score method we can evaluate our classification model preformance and compare it with other model. The accuracy score show that, with a Decision Tree Classification model, we can predict if a given tumor is benign or malignant with 95.9% of accuracy.
 
