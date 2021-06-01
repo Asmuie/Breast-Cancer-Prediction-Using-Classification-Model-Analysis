@@ -19,9 +19,9 @@
 
 * Class distribution:
   * Benign: 458(65.5%)
-  * Malignant:241 (34.5)
+  * Malignant: 241 (34.5)
 
-Using the data provided, I predict if the patient had benign or malignant tumor using classification model below. Finally i compare the accuracy score to find the best possible model for this project.
+Using the data provided, I predict if the patient had benign or malignant tumor using classification model below. Finally i compare the accuracy score method to find the best possible model for this project.
 
 * Multiple Linear Regression
 
@@ -33,5 +33,5 @@ Using the data provided, I predict if the patient had benign or malignant tumor 
 
 * Random Forest Regression
 
-By using accuracy score method we can evaluate our classification model preformance and compare it with other model. The accuracy score show that, with a Decision Tree Classification model, we can predict if a given tumor is malignant with 95.9% of accuracy.
+By using accuracy score method we can evaluate our classification model preformance and compare it with other model. The accuracy score show that, with a Decision Tree Classification model, we can predict if a given tumor is benign or malignant with 95.9% of accuracy.
 
