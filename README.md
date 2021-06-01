@@ -1,21 +1,22 @@
 # Breast-Cancer-Prediction-Using-Classification-Model-Analysis
 
-**[CBreast Cancer Winsconsin Data Set](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))** : Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image.
+**[Breast Cancer Data Set](https://www.cc.gatech.edu/projects/disl/VISTA/breast.html)**:This breast cancer databases was obtained from the University of Wisconsin Hospitals, Madison from Dr. William H. Wolberg.
 
-**Attribute Information**
-1) ID number
-2) Diagnosis (M = malignant, B = benign)
-3-32)
+* Number of Instances : 699
+* Number of Attributes : 10
 
-Ten real-valued features are computed for each cell nucleus:
+1. Sample code number id number 
+2. Clump Thickness 1 - 10 
+3. Uniformity of Cell Size 1 - 10 
+4. Uniformity of Cell Shape 1 - 10 
+5. Marginal Adhesion 1 - 10 
+6. Single Epithelial Cell Size 1 - 10 
+7. Bare Nuclei 1 - 10 
+8. Bland Chromatin 1 - 10 
+9. 9Normal Nucleoli 1 - 10 
+10. Mitoses 1 - 10 
+11. Class: (2 for benign, 4 for malignant)
 
-* radius (mean of distances from center to points on the perimeter)
-* texture (standard deviation of gray-scale values)
-* perimeter
-* area
-* smoothness (local variation in radius lengths)
-* compactness (perimeter^2 / area - 1.0)
-* concavity (severity of concave portions of the contour)
-* concave points (number of concave portions of the contour)
-* symmetry
-* fractal dimension ("coastline approximation" - 1)
+* Class distribution:
+** Benign: 458(65.5%)
+** Malignant:241 (34.5)
