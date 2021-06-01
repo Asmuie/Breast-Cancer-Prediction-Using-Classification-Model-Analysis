@@ -17,6 +17,6 @@
 10. Mitoses 1 - 10 
 11. Class: (2 for benign, 4 for malignant)
 
-*Class distribution:
-**Benign: 458(65.5%)
-**Malignant:241 (34.5)
+* Class distribution:
+  * Benign: 458(65.5%)
+  * Malignant:241 (34.5)
