@@ -1,6 +1,6 @@
 # Breast-Cancer-Prediction-Using-Classification-Model-Analysis
 
-**[Breast Cancer Data Set](https://www.cc.gatech.edu/projects/disl/VISTA/breast.html)**:This breast cancer databases was obtained from the University of Wisconsin Hospitals, Madison from Dr. William H. Wolberg.
+**[Breast Cancer Data Set](https://www.cc.gatech.edu/projects/disl/VISTA/breast.html)**: This breast cancer databases was obtained from the University of Wisconsin Hospitals, Madison from Dr. William H. Wolberg. The idea is to perform an exploratory analysis of the information contained in the dataset, figuring out ways of making the dataset tidier. The ultimate objective is to, in the end, build and compare models to predict if a given tumor is benign or malignant (breast cancer) using the information available on this dataset. Some functions created for this purpose are included in the repository.
 
 * Number of Instances : 699
 * Number of Attributes : 10
@@ -20,3 +20,18 @@
 * Class distribution:
   * Benign: 458(65.5%)
   * Malignant:241 (34.5)
+
+Using the data provided, I predict if the patient had benign or malignant tumor using classification model below. Finally i compare the accuracy score to find the best possible model for this project.
+
+* Multiple Linear Regression
+
+* Polynomial Regression
+
+* Support Vector Regresion (SVR)
+
+* Decision Tree Regression
+
+* Random Forest Regression
+
+By using accuracy score method we can evaluate our classification model preformance and compare it with other model. The accuracy score show that, with a Decision Tree Classification model, we can predict if a given tumor is malignant with 95.9% of accuracy.
+
