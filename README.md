@@ -13,7 +13,7 @@
 6. Single Epithelial Cell Size 1 - 10 
 7. Bare Nuclei 1 - 10 
 8. Bland Chromatin 1 - 10 
-9. 9Normal Nucleoli 1 - 10 
+9. Normal Nucleoli 1 - 10 
 10. Mitoses 1 - 10 
 11. Class: (2 for benign, 4 for malignant)
 
