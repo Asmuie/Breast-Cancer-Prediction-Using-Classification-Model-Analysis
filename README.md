@@ -41,4 +41,4 @@ By using accuracy score method we can evaluate our classification model preforma
 
 **Keyword:** Classification / Logisitc Regression / KNN / SVM / Kernel SVM / Decision Tree Classification / Random Forest Classification
  
- **Project Repository:** [Breast-Cancer-Prediction-Using-Classification-Model-Analysis](https://github.com/Asmuie/Breast-Cancer-Prediction-Using-Classification-Model-Analysiss)
+ **Project Repository:** [Breast-Cancer-Prediction-Using-Classification-Model-Analysis](https://github.com/Asmuie/Breast-Cancer-Prediction-Using-Classification-Model-Analysis)
